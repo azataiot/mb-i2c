@@ -1,0 +1,4 @@
+../Core/Src/serial.c:14:19:print	16	static
+../Core/Src/serial.c:18:19:println	48	dynamic
+../Core/Src/serial.c:24:19:uart_tx	16	static
+../Core/Src/serial.c:28:19:uart_tx_exp	24	static

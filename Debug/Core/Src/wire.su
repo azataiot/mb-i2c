@@ -1,0 +1,6 @@
+../Core/Src/wire.c:14:6:i2c_scan	88	static
+../Core/Src/wire.c:31:8:device_ready	16	static
+../Core/Src/wire.c:40:8:i2c_write_byte	40	static
+../Core/Src/wire.c:48:8:i2c_write_word	40	static
+../Core/Src/wire.c:57:6:i2c_read_byte	40	static
+../Core/Src/wire.c:64:6:i2c_read_word	40	static

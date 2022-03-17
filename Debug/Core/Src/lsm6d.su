@@ -1,0 +1,5 @@
+../Core/Src/lsm6d.c:19:6:lsm6d_print	64	static
+../Core/Src/lsm6d.c:128:16:platform_write	40	static
+../Core/Src/lsm6d.c:145:16:platform_read	40	static
+../Core/Src/lsm6d.c:168:6:platform_delay	16	static
+../Core/Src/lsm6d.c:175:6:platform_init	4	static

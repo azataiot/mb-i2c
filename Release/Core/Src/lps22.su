@@ -1,0 +1,5 @@
+../Core/Src/lps22.c:10:6:lps22_reset	8	static
+../Core/Src/lps22.c:22:6:lps22_start_oneshot	8	static
+../Core/Src/lps22.c:29:15:lps22_init	8	static
+../Core/Src/lps22.c:37:6:check_lps22	8	static
+../Core/Src/lps22.c:46:6:lps22_print	112	static

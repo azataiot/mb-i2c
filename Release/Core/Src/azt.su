@@ -1,0 +1,5 @@
+../Core/Src/azt.c:13:5:pin2hal	24	static
+../Core/Src/azt.c:108:6:delay	0	static
+../Core/Src/azt.c:112:6:digitalWrite	24	static
+../Core/Src/azt.c:117:6:togglePin	16	static
+../Core/Src/azt.c:122:15:digitalRead	16	static
